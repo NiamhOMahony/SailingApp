@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SailingApp3</string>
+    <string name="display_name">Niamh O\'Mahony</string>
+    <string name="safety">Safety</string>
+    <string name="lorum_ipsum_sporum">Lorum ipsum sporum</string>
+    <string name="weather">Weather</string>
+    <string name="session">Session</string>
+    <string name="group">Group</string>
+    <string name="sailing">Sailing</string>
+    <string name="fault">Fault:</string>
+    <string name="available">Available</string>
+    <string name="button">Button</string>
+    <string name="admin">Admin</string>
+
+    <string-array name="safety_type">
+        <item>KillCord</item>
+        <item>GrabBag</item>
+        <item>VHF</item>
+        <item>FirstAid</item>
+        <item>SafetyBoat</item>
+        <item>Anchor</item>
+        <item>Bouy</item>
+    </string-array>
+
+    <string-array name="no_yes">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="yes_no">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="users_array">
+        <item>Jim Murphy</item>
+        <item>Mary Walsh</item>
+        <item>Bob OSullivan</item>
+        <item>Joe Barry</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instructor">Instructor</string>
+
+</resources>
